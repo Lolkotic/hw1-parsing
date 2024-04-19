@@ -1,0 +1,161 @@
+C:\Users\Koteika\AppData\Local\Programs\Python\Python39\python.exe E:\загрузки\hw1.py 
+Input any kind of place  (Park, Zoos, Museums, etc) : museum
+Successful request API with URL:  https://api.foursquare.com/v3/places/search?limit=50&query=museum&fields=name%2Clocation%2Crating
+Place: Диорама
+Address: Горького Ул., д. 32, 610017, Киров
+Rating: 6.6
+
+Place: КИРОВСКИЙ ОБЛАСТНОЙ ХУДОЖЕСТВЕННЫЙ МУЗЕЙ им. В.М. и А.М. ВАСНЕЦОВЫХ
+Address: Карла Маркса Ул., д. 70 (ул. Спасская), 610000, Киров
+Rating: 6.8
+
+Place: Дом-музей М.Е. Салтыкова-Щедрина
+Address: Ленина Ул., д. 93, 610000, Киров
+Rating: 6.8
+
+Place: Вятский палеонтологический музей
+Address: Спасская Ул., д. 22 (здание театра кукол, 3 этаж), 610000, Киров
+Rating: 6.7
+
+Place: Кировский областной краеведческий музей
+Address: Дрелевского Ул., д. 6, 610000, Киров
+Rating: 6.5
+
+Place: Железнодорожного Транспорта / Railway Transport
+Address: Карла Маркса, 147, 610000, Киров
+Rating: no rating
+
+Place: Музей железнодорожного транспорта
+Address: Карла Маркса Ул., д. 147, 610027, Киров
+Rating: no rating
+
+Place: Кировский областной центр детско-юношеского туризма и экскурсий
+Address: Воровского Ул., д. 16, 610002, Киров
+Rating: no rating
+
+Place: Галерея Прогресса / CCA Progress Gallery
+Address: Ул., д. 5, 610000, Киров
+Rating: no rating
+
+Place: Дом-Музей Н. Н. Хохрякова
+Address: Копанский пер., 4, 610000, Киров
+Rating: no rating
+
+Place: Вятский Художественный Музей им. В.М. и А.М. Васнецовых / Vyatka Art Museum. V.M. & A.M. Vasnetsov
+Address: Карла Маркса, 70 (Карла Маркса и Дрелевского), Киров
+Rating: no rating
+
+Place: Музей воинской славы
+Address: Красноармейская Ул., д. 1а, Киров
+Rating: no rating
+
+Place: Музей дома-усадьбы Иуды Колошина
+Address: Московская, 32, Киров
+Rating: no rating
+
+Place: Областной Музей Истории Народного Образования / The Regional Museum of History of Public Education
+Address: Московская, 33, 610000, Киров
+Rating: no rating
+
+Place: Творческая мастерская Студия ремёсел
+Address: Свободы, 67, Киров
+Rating: no rating
+
+Place: Кировский городской научно-естественный музей
+Address: Ленина, 160, 610007, Киров
+Rating: no rating
+
+Place: Музей Вятского Самовара / Museum of Vyatka Samovar
+Address: Преображенская, 25 / Свободы, 55, 610000, Киров
+Rating: no rating
+
+Place: Музей вятского самовара
+Address: Преображенская, 25 (Свободы), 610020, Киров
+Rating: no rating
+
+Place: Музей вятской глиняной игрушки
+Address: Ул. Спасская, д. 15, Киров
+Rating: no rating
+
+Place: Приказная Изба
+Address: Спасская 4б, Киров
+Rating: no rating
+
+Place: Вятские народные художественные промыслы
+Address: Дрелевского Ул., д. 4-б, 610000, Киров
+Rating: no rating
+
+Place: музей К.Э. Циолковского, Авиации и Космонавтики / museum K.E. Tsiolkovsky, Aviation and Astronautics
+Address: Преображенская, 14, 610000, Киров
+Rating: no rating
+
+Place: Музей К.Э. Циолковского, авиации и космонавтики
+Address: Энгельса Ул., д. 16, 610000, Киров
+Rating: no rating
+
+Place: Советского Счастливого Детства / Soviet Happy Childhood
+Address: Воровского 51, 610000, Киров
+Rating: no rating
+
+Place: Дом-Музей Грина
+Address: Володарского Ул., д. 44, 610020, Киров
+Rating: no rating
+
+Place: Кировский зоологический музей , Нововятск
+Address: Ул. Советская 17, 610000, Киров
+Rating: no rating
+
+Place: Пожарная Охрана Вятки / Fire Protection Vyatka
+Address: Лепсе, 30 (Лепсе и Сормовская), 610046, Киров
+Rating: no rating
+
+Place: Планетарий
+Address: Волкова Ул., д. 6, 610021, Киров
+Rating: no rating
+
+Place: Возрождение
+Address: Профсоюзная Ул., д. 11, Киров
+Rating: no rating
+
+Place: Городской центр детско-юношеского туризма и экскурсий
+Address: Красноармейская Ул., д. 10, 610002, Киров
+Rating: no rating
+
+Place: Сириус
+Address: Ленина Ул., д. 162-а., 610007, Киров
+Rating: no rating
+
+Place: Природа
+Address: Подгорная Ул., д. 18, 610016, Киров
+Rating: no rating
+
+Place: Кировский городской научно-естественный музей
+Address: Советская Ул., д. 17, 610004, Киров
+Rating: no rating
+
+Place: Кировский городской зоологический музей
+Address: Советская, 17 (Пушкина), 610000, Киров
+Rating: no rating
+
+Place: Музей ветеранов войны в Афганистане
+Address: Советская Ул., д. 46, 610008, Киров
+Rating: no rating
+
+Place: Исторический музей ЛПК
+Address: Октябрьская, 26 (Ленина), 610008, Киров
+Rating: no rating
+
+Place: Исторический музей Вятского фанерного комбината
+Address: Октябрьская Ул., д. 26, Киров
+Rating: no rating
+
+Place: Артико
+Address: Спасская, 15, Киров
+Rating: 7.8
+
+Place: Музей истории шоколада Криолло - Цены на услуги
+Address: Спасская, 15, Киров
+Rating: 6.8
+
+
+Process finished with exit code 0
